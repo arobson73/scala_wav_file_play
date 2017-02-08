@@ -1,3 +1,4 @@
+package soundtest
 import javax.sound.sampled._
 import java.io.File._
 //import java.net.URL._
